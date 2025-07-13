@@ -22,17 +22,5 @@ I’m a graduate of the Singapore University of Technology and Design (SUTD), ho
 **Version Control:**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
-## 📌 Featured Projects
-
-### [Cool Project](link-to-repo)  
-> Short one-line description of what it does.  
-- ✨ Built with …
-- 🚀 Highlights: …
-
-### [Another Project](link-to-repo)  
-> Another brief description.  
-- 📚 Tech stack: …
-- 🔧 Features: …
-
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esan-natraj-809563202/)
