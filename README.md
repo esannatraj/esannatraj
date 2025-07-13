@@ -1,11 +1,7 @@
 # Hi, I’m Esan 👋
 
----
-
 ## 🚀 About Me
 I’m a graduate of the Singapore University of Technology and Design (SUTD), holding a Bachelor of Engineering (Honours) in Computer Science and Design. I have hands-on experience building full-stack applications, from architecting scalable backends to crafting polished frontends, and I’ve applied machine learning techniques to solve real-world problems. I’m passionate about clean design, data-driven features, cloud-native architectures, and collaborating on innovative projects.
-
----
 
 ## 🛠 Technologies & Tools
 **Languages:**  
@@ -26,8 +22,6 @@ I’m a graduate of the Singapore University of Technology and Design (SUTD), ho
 **Version Control:**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
----
-
 ## 📌 Featured Projects
 
 ### [Cool Project](link-to-repo)  
@@ -39,8 +33,6 @@ I’m a graduate of the Singapore University of Technology and Design (SUTD), ho
 > Another brief description.  
 - 📚 Tech stack: …
 - 🔧 Features: …
-
----
 
 ## 📫 Get in Touch
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esan-natraj-809563202/)
